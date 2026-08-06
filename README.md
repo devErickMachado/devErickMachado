@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devErickMachado/devErickMachado/main/banner.png" width="100%">
+  <img src="./banner.png" alt="Banner Erick Machado" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Erick Machado</h1>
