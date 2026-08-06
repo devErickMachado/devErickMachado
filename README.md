@@ -1,42 +1,46 @@
-## # Olá, eu sou Erick Machado
+<h1 align="center">👨‍💻 Erick Machado</h1>
 
+<p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
-💻 Desenvolvedor Fullstack e Web
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web e Fullstack**.
 
-## 🚀 Tecnologias
+Tenho experiência em projetos utilizando **Java, Python, JavaScript, HTML/CSS, React, FastAPI, Node.js, SQL e Git**.
 
-- Java
-- Python
-- JavaScript
-- React
-- FastAPI
-- Node.js
-- SQL
-- Git
+🚀 Atualmente desenvolvendo o **FitMind AI**, uma plataforma Full Stack para gerenciamento de treinos com autenticação JWT, APIs REST e dashboard interativo.
 
-## 📌 Projeto em destaque
+---
 
-🏋️ FitMind AI
+## 🚀 Linguagens e Tecnologias
 
-Sistema Full Stack para gerenciamento de treinos, autenticação de usuários, chatbot e geração personalizada de treinos.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,fastapi,nodejs,html,css,git,mysql,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devErickMachado&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devErickMachado&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Sequência de Commits
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devErickMachado&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/dev-erickmachado
-Email: erick.machado2908@gmail.com 
-
-<!--
-**devErickMachado/devErickMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/dev-erickmachado">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
