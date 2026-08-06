@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devErickMachado/devErickMachado/main/banner.png" width="100%">
+</p>
+
 <h1 align="center">👨‍💻 Erick Machado</h1>
 
 <p align="center">
