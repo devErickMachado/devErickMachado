@@ -32,6 +32,8 @@ Tenho experiência em projetos utilizando **Java, Python, JavaScript, HTML/CSS, 
 
 ---
 
+## 🐍 Contribuições
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devErickMachado/devErickMachado/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
